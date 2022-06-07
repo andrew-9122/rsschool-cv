@@ -1,7 +1,7 @@
 # rsschool-cv
-#**Andrew Potanin**
+**Andrew Potanin**
 
-##CONTACTS:
+CONTACTS:
 
 *E-mail hellman.tommy@mail.ru
 *Phone number +77085530140
